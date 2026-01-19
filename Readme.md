@@ -1,8 +1,8 @@
-Customer Feedback & Ticketing System
+#Customer Feedback & Ticketing System
 
-Objective : Developed a platform for customers to submit issues or feedback
+##Objective : Developed a platform for customers to submit issues or feedback
 
-Customer can Submit :
+##Customer can Submit :
   Name
   Email
   Issue Category
@@ -11,14 +11,14 @@ Customer can Submit :
 
 Tickets is assigned an auto-generated
 
-Admin Dashboard 
+##Admin Dashboard 
   View & Filter tickets (Pending ,In-Progress,Completed)
   Add Internal Notes
   Change ticket status
 
 Send Ticket update notification (mock)
 
-Dashboard Statics
+##Dashboard Statics
  Total Tickets
  Resolved vs unresolved
  Ticket count by Category
